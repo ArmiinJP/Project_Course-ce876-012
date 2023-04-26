@@ -1,0 +1,7 @@
+yazd,1,test1,daadb,013131,1313,9
+tehran,2,test3,saaeb,0231313,1021,10
+yazd,3,test2,saldab,0100000,1401,12
+tehran,4,test,adafa,031231,1321,100
+tehran,5,fasfa,faea,031231,1231,10
+yazd,6,test5,saaedb,03910312,1400,2
+tehran,7,test6,name,03213,1312,9
